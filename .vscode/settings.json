@@ -1,0 +1,29 @@
+{
+    // General settings
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+
+    // CSS settings
+    "css.lint.unknownAtRules": "ignore",
+
+    // MDX settings
+    "[mdx]": {
+        "editor.wordWrap": "bounded",
+        "editor.fontSize": 13,
+        "editor.wordWrapColumn": 120,
+        "editor.lineNumbers": "off",
+        "editor.scrollbar.vertical": "hidden",
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
+    }
+}
