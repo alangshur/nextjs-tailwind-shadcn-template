@@ -1,4 +1,4 @@
-# Website
+# nextjs-tailwind-shadcn-template
 
 This is a template repo for a webapp stack that combines NextJS, TailwindCSS, and shadcn. It also includes a number of additional useful configurations, including Prettier, ESLint, Husky, lint-staged, and more.
 
